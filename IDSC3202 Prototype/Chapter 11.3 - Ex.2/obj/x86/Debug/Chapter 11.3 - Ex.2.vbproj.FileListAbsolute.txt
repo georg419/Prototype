@@ -1,0 +1,25 @@
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\bin\Debug\Chapter 11.3 - Ex.2.exe
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\bin\Debug\Chapter 11.3 - Ex.2.pdb
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\bin\Debug\Chapter 11.3 - Ex.2.xml
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter_11._3___Ex._2.frmGrades.resources
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter_11._3___Ex._2.Resources.resources
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.exe
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.xml
+C:\Users\srgeorgiev\AppData\Local\Temporary Projects\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.pdb
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\Chapter 11.3 - Ex.2\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.exe
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\Chapter 11.3 - Ex.2\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.xml
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\Chapter 11.3 - Ex.2\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.pdb
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.exe
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.xml
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter 11.3 - Ex.2.pdb
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\bin\Debug\Chapter 11.3 - Ex.2.exe
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\bin\Debug\Chapter 11.3 - Ex.2.pdb
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\bin\Debug\Chapter 11.3 - Ex.2.xml
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter_11._3___Ex._2.frmGrades.resources
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\Chapter_11._3___Ex._2.Resources.resources
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\srgeorgiev\Documents\Fall 2013\IDSC 3102\IDSC3202 Prototype\Chapter 11.3 - Ex.2\obj\x86\Debug\GenerateResource.write.1.tlog
